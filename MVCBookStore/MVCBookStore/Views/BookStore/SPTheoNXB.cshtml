@@ -1,0 +1,36 @@
+﻿@model IEnumerable<MVCBookStore.Models.SACH>
+@*@using MVCBookStore.Models
+@using PagedList.Mvc;
+@model PagedList.PagedList<SACH>*@
+
+@{
+    ViewBag.Title = "SPTheoNXB";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<style>
+    #Hinhanh {
+        width: 20%;
+    }
+</style>
+
+<h3 style="text-align:center;color:red">SÁCH THEO NHÀ XUẤT BẢN</h3>
+<div class="row">
+    @foreach (var sach in Model)
+    {
+        <div class="templatemo_product_box">
+
+            <h1>@sach.Tensach</h1>
+
+            <img alt="@sach.Tensach" src="~/images/@sach.Hinhminhhoa" id="Hinhanh" />
+            <div class="product_info">
+                <br />
+                <h3>@sach.Dongia</h3>
+                <div class="buy_now_button"><a href="@Url.Action("ThemGiohang", "GioHang", new { @iMasach = sach.Masach, @strURL = Request.Url.ToString() })">Buy Now</a></div>
+                <div class="detail_button"><a href="@Url.Action("Details", "BookStore", new { id = sach.Masach })">Detail</a></div>
+            </div>
+            <div class="cleaner">&nbsp;</div>
+        </div>
+    }
+</div>
+

@@ -1,0 +1,44 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    
+    <title>Simple Login Form</title>
+    <meta charset="UTF-8" />
+    <link href="../../Content/reset.css" rel="stylesheet" />
+    <link href="../../Content/structure.css" rel="stylesheet" />
+</head>
+<body>
+
+    <h4 style="color:red; text-align:center"> @ViewBag.ThongBao</h4>
+
+    @using (Html.BeginForm(FormMethod.Post))
+    {
+        <div class="box login">
+            @Html.ValidationSummary(true)
+            <fieldset class="boxBody">
+                <h3>ĐĂNG NHẬP HỆ THỐNG QUẢN TRỊ</h3>
+                <p>Vui lòng nhập user name và password:</p>
+                <label>Username</label>
+                <input type="text" name="username" tabindex="1" placeholder="PremiumPixel" required>
+                @ViewData["Loi1"]
+                <label><a href="#" class="rLink" tabindex="5">Forget your password?</a>Password</label>
+                <input type="password" name="password" tabindex="2" required>
+                @ViewData["Loi2"]
+            </fieldset>
+            <footer>
+                <label><input type="checkbox" tabindex="3">Keep me logged in</label>
+                <input type="submit" class="btnLogin" value="Login" tabindex="4">
+            </footer>
+
+        </div>
+    }
+
+</body>
+</html>

@@ -1,0 +1,14 @@
+﻿@model IEnumerable<MVCBookStore.Models.CHUDE>
+
+<div class="list-group">
+    @foreach (var item in Model)
+    {
+            <a href="@Url.Action("SPTheochude","BookStore", new {id = item.MaCD})" class="list-group-item">
+                <div>
+                @item.TenChuDe          
+                </div>
+            </a>
+            @*<li><a href="~/Views/Shared/subpage.html">@item.TenChuDe</a></li>*@
+    }
+</div>
+

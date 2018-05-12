@@ -1,0 +1,177 @@
+C:\Users\Tuyet Trinh\Desktop\MVCBookStore\MVCBookStore\bin\MVCBookStore.dll.config
+C:\Users\Tuyet Trinh\Desktop\MVCBookStore\MVCBookStore\bin\MVCBookStore.dll
+C:\Users\Tuyet Trinh\Desktop\MVCBookStore\MVCBookStore\bin\MVCBookStore.pdb
+C:\Users\Tuyet Trinh\Desktop\MVCBookStore\MVCBookStore\bin\Antlr3.Runtime.dll
+C:\Users\Tuyet Trinh\Desktop\MVCBookStore\MVCBookStore\bin\EntityFramework.dll
+C:\Users\Tuyet Trinh\Desktop\MVCBookStore\MVCBookStore\bin\EntityFramework.SqlServer.dll
+C:\Users\Tuyet Trinh\Desktop\MVCBookStore\MVCBookStore\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Tuyet Trinh\Desktop\MVCBookStore\MVCBookStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Tuyet Trinh\Desktop\MVCBookStore\MVCBookStore\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Tuyet Trinh\Desktop\MVCBookStore\MVCBookStore\bin\Microsoft.Owin.dll
+C:\Users\Tuyet Trinh\Desktop\MVCBookStore\MVCBookStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Tuyet Trinh\Desktop\MVCBookStore\MVCBookStore\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Tuyet Trinh\Desktop\MVCBookStore\MVCBookStore\bin\Microsoft.Owin.Security.dll
+C:\Users\Tuyet Trinh\Desktop\MVCBookStore\MVCBookStore\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Tuyet Trinh\Desktop\MVCBookStore\MVCBookStore\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Tuyet Trinh\Desktop\MVCBookStore\MVCBookStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Tuyet Trinh\Desktop\MVCBookStore\MVCBookStore\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Tuyet Trinh\Desktop\MVCBookStore\MVCBookStore\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Tuyet Trinh\Desktop\MVCBookStore\MVCBookStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Tuyet Trinh\Desktop\MVCBookStore\MVCBookStore\bin\Newtonsoft.Json.dll
+C:\Users\Tuyet Trinh\Desktop\MVCBookStore\MVCBookStore\bin\Owin.dll
+C:\Users\Tuyet Trinh\Desktop\MVCBookStore\MVCBookStore\bin\System.Web.Helpers.dll
+C:\Users\Tuyet Trinh\Desktop\MVCBookStore\MVCBookStore\bin\System.Web.Mvc.dll
+C:\Users\Tuyet Trinh\Desktop\MVCBookStore\MVCBookStore\bin\System.Web.Optimization.dll
+C:\Users\Tuyet Trinh\Desktop\MVCBookStore\MVCBookStore\bin\System.Web.Razor.dll
+C:\Users\Tuyet Trinh\Desktop\MVCBookStore\MVCBookStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Tuyet Trinh\Desktop\MVCBookStore\MVCBookStore\bin\System.Web.WebPages.dll
+C:\Users\Tuyet Trinh\Desktop\MVCBookStore\MVCBookStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\Tuyet Trinh\Desktop\MVCBookStore\MVCBookStore\bin\WebGrease.dll
+C:\Users\Tuyet Trinh\Desktop\MVCBookStore\MVCBookStore\bin\System.Web.Helpers.xml
+C:\Users\Tuyet Trinh\Desktop\MVCBookStore\MVCBookStore\bin\System.Web.Mvc.xml
+C:\Users\Tuyet Trinh\Desktop\MVCBookStore\MVCBookStore\bin\System.Web.Optimization.xml
+C:\Users\Tuyet Trinh\Desktop\MVCBookStore\MVCBookStore\bin\System.Web.Razor.xml
+C:\Users\Tuyet Trinh\Desktop\MVCBookStore\MVCBookStore\bin\System.Web.WebPages.xml
+C:\Users\Tuyet Trinh\Desktop\MVCBookStore\MVCBookStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Tuyet Trinh\Desktop\MVCBookStore\MVCBookStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\Tuyet Trinh\Desktop\MVCBookStore\MVCBookStore\bin\Antlr3.Runtime.pdb
+C:\Users\Tuyet Trinh\Desktop\MVCBookStore\MVCBookStore\bin\Newtonsoft.Json.xml
+C:\Users\Tuyet Trinh\Desktop\MVCBookStore\MVCBookStore\bin\EntityFramework.xml
+C:\Users\Tuyet Trinh\Desktop\MVCBookStore\MVCBookStore\bin\EntityFramework.SqlServer.xml
+C:\Users\Tuyet Trinh\Desktop\MVCBookStore\MVCBookStore\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Tuyet Trinh\Desktop\MVCBookStore\MVCBookStore\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Tuyet Trinh\Desktop\MVCBookStore\MVCBookStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Tuyet Trinh\Desktop\MVCBookStore\MVCBookStore\bin\Microsoft.Owin.xml
+C:\Users\Tuyet Trinh\Desktop\MVCBookStore\MVCBookStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Tuyet Trinh\Desktop\MVCBookStore\MVCBookStore\bin\Microsoft.Owin.Security.xml
+C:\Users\Tuyet Trinh\Desktop\MVCBookStore\MVCBookStore\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Tuyet Trinh\Desktop\MVCBookStore\MVCBookStore\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Tuyet Trinh\Desktop\MVCBookStore\MVCBookStore\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Tuyet Trinh\Desktop\MVCBookStore\MVCBookStore\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Tuyet Trinh\Desktop\MVCBookStore\MVCBookStore\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Tuyet Trinh\Desktop\MVCBookStore\MVCBookStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Tuyet Trinh\Desktop\MVCBookStore\MVCBookStore\obj\Debug\MVCBookStore.csprojResolveAssemblyReference.cache
+C:\Users\Tuyet Trinh\Desktop\MVCBookStore\MVCBookStore\obj\Debug\MVCBookStore.dll
+C:\Users\Tuyet Trinh\Desktop\MVCBookStore\MVCBookStore\obj\Debug\MVCBookStore.pdb
+C:\Users\Tuyet Trinh\Desktop\MVCBookStore\MVCBookStore\bin\PagedList.dll
+C:\Users\Tuyet Trinh\Desktop\MVCBookStore\MVCBookStore\bin\PagedList.Mvc.dll
+C:\Users\Tuyet Trinh\Desktop\MVCBookStore\MVCBookStore\bin\PagedList.xml
+C:\Users\Tuyet Trinh\Desktop\MVCBookStore\MVCBookStore\bin\PagedList.Mvc.xml
+C:\Users\Tuyet Trinh\Downloads\New folder\MVCBookStore\MVCBookStore\bin\MVCBookStore.dll.config
+C:\Users\Tuyet Trinh\Downloads\New folder\MVCBookStore\MVCBookStore\bin\MVCBookStore.dll
+C:\Users\Tuyet Trinh\Downloads\New folder\MVCBookStore\MVCBookStore\bin\MVCBookStore.pdb
+C:\Users\Tuyet Trinh\Downloads\New folder\MVCBookStore\MVCBookStore\bin\Antlr3.Runtime.dll
+C:\Users\Tuyet Trinh\Downloads\New folder\MVCBookStore\MVCBookStore\bin\EntityFramework.dll
+C:\Users\Tuyet Trinh\Downloads\New folder\MVCBookStore\MVCBookStore\bin\EntityFramework.SqlServer.dll
+C:\Users\Tuyet Trinh\Downloads\New folder\MVCBookStore\MVCBookStore\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Tuyet Trinh\Downloads\New folder\MVCBookStore\MVCBookStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Tuyet Trinh\Downloads\New folder\MVCBookStore\MVCBookStore\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Tuyet Trinh\Downloads\New folder\MVCBookStore\MVCBookStore\bin\Microsoft.Owin.dll
+C:\Users\Tuyet Trinh\Downloads\New folder\MVCBookStore\MVCBookStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Tuyet Trinh\Downloads\New folder\MVCBookStore\MVCBookStore\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Tuyet Trinh\Downloads\New folder\MVCBookStore\MVCBookStore\bin\Microsoft.Owin.Security.dll
+C:\Users\Tuyet Trinh\Downloads\New folder\MVCBookStore\MVCBookStore\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Tuyet Trinh\Downloads\New folder\MVCBookStore\MVCBookStore\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Tuyet Trinh\Downloads\New folder\MVCBookStore\MVCBookStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Tuyet Trinh\Downloads\New folder\MVCBookStore\MVCBookStore\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Tuyet Trinh\Downloads\New folder\MVCBookStore\MVCBookStore\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Tuyet Trinh\Downloads\New folder\MVCBookStore\MVCBookStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Tuyet Trinh\Downloads\New folder\MVCBookStore\MVCBookStore\bin\Newtonsoft.Json.dll
+C:\Users\Tuyet Trinh\Downloads\New folder\MVCBookStore\MVCBookStore\bin\Owin.dll
+C:\Users\Tuyet Trinh\Downloads\New folder\MVCBookStore\MVCBookStore\bin\PagedList.dll
+C:\Users\Tuyet Trinh\Downloads\New folder\MVCBookStore\MVCBookStore\bin\PagedList.Mvc.dll
+C:\Users\Tuyet Trinh\Downloads\New folder\MVCBookStore\MVCBookStore\bin\System.Web.Helpers.dll
+C:\Users\Tuyet Trinh\Downloads\New folder\MVCBookStore\MVCBookStore\bin\System.Web.Mvc.dll
+C:\Users\Tuyet Trinh\Downloads\New folder\MVCBookStore\MVCBookStore\bin\System.Web.Optimization.dll
+C:\Users\Tuyet Trinh\Downloads\New folder\MVCBookStore\MVCBookStore\bin\System.Web.Razor.dll
+C:\Users\Tuyet Trinh\Downloads\New folder\MVCBookStore\MVCBookStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Tuyet Trinh\Downloads\New folder\MVCBookStore\MVCBookStore\bin\System.Web.WebPages.dll
+C:\Users\Tuyet Trinh\Downloads\New folder\MVCBookStore\MVCBookStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\Tuyet Trinh\Downloads\New folder\MVCBookStore\MVCBookStore\bin\WebGrease.dll
+C:\Users\Tuyet Trinh\Downloads\New folder\MVCBookStore\MVCBookStore\bin\PagedList.xml
+C:\Users\Tuyet Trinh\Downloads\New folder\MVCBookStore\MVCBookStore\bin\PagedList.Mvc.xml
+C:\Users\Tuyet Trinh\Downloads\New folder\MVCBookStore\MVCBookStore\bin\System.Web.Helpers.xml
+C:\Users\Tuyet Trinh\Downloads\New folder\MVCBookStore\MVCBookStore\bin\System.Web.Mvc.xml
+C:\Users\Tuyet Trinh\Downloads\New folder\MVCBookStore\MVCBookStore\bin\System.Web.Optimization.xml
+C:\Users\Tuyet Trinh\Downloads\New folder\MVCBookStore\MVCBookStore\bin\System.Web.Razor.xml
+C:\Users\Tuyet Trinh\Downloads\New folder\MVCBookStore\MVCBookStore\bin\System.Web.WebPages.xml
+C:\Users\Tuyet Trinh\Downloads\New folder\MVCBookStore\MVCBookStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Tuyet Trinh\Downloads\New folder\MVCBookStore\MVCBookStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\Tuyet Trinh\Downloads\New folder\MVCBookStore\MVCBookStore\bin\Antlr3.Runtime.pdb
+C:\Users\Tuyet Trinh\Downloads\New folder\MVCBookStore\MVCBookStore\bin\Newtonsoft.Json.xml
+C:\Users\Tuyet Trinh\Downloads\New folder\MVCBookStore\MVCBookStore\bin\EntityFramework.xml
+C:\Users\Tuyet Trinh\Downloads\New folder\MVCBookStore\MVCBookStore\bin\EntityFramework.SqlServer.xml
+C:\Users\Tuyet Trinh\Downloads\New folder\MVCBookStore\MVCBookStore\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Tuyet Trinh\Downloads\New folder\MVCBookStore\MVCBookStore\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Tuyet Trinh\Downloads\New folder\MVCBookStore\MVCBookStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Tuyet Trinh\Downloads\New folder\MVCBookStore\MVCBookStore\bin\Microsoft.Owin.xml
+C:\Users\Tuyet Trinh\Downloads\New folder\MVCBookStore\MVCBookStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Tuyet Trinh\Downloads\New folder\MVCBookStore\MVCBookStore\bin\Microsoft.Owin.Security.xml
+C:\Users\Tuyet Trinh\Downloads\New folder\MVCBookStore\MVCBookStore\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Tuyet Trinh\Downloads\New folder\MVCBookStore\MVCBookStore\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Tuyet Trinh\Downloads\New folder\MVCBookStore\MVCBookStore\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Tuyet Trinh\Downloads\New folder\MVCBookStore\MVCBookStore\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Tuyet Trinh\Downloads\New folder\MVCBookStore\MVCBookStore\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Tuyet Trinh\Downloads\New folder\MVCBookStore\MVCBookStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Tuyet Trinh\Downloads\New folder\MVCBookStore\MVCBookStore\obj\Debug\MVCBookStore.csprojResolveAssemblyReference.cache
+C:\Users\Tuyet Trinh\Downloads\New folder\MVCBookStore\MVCBookStore\obj\Debug\MVCBookStore.dll
+C:\Users\Tuyet Trinh\Downloads\New folder\MVCBookStore\MVCBookStore\obj\Debug\MVCBookStore.pdb
+C:\Users\Tuyet Trinh\Desktop\CNPMNC\MVCBookStore\MVCBookStore\bin\MVCBookStore.dll.config
+C:\Users\Tuyet Trinh\Desktop\CNPMNC\MVCBookStore\MVCBookStore\bin\MVCBookStore.dll
+C:\Users\Tuyet Trinh\Desktop\CNPMNC\MVCBookStore\MVCBookStore\bin\MVCBookStore.pdb
+C:\Users\Tuyet Trinh\Desktop\CNPMNC\MVCBookStore\MVCBookStore\bin\Antlr3.Runtime.dll
+C:\Users\Tuyet Trinh\Desktop\CNPMNC\MVCBookStore\MVCBookStore\bin\EntityFramework.dll
+C:\Users\Tuyet Trinh\Desktop\CNPMNC\MVCBookStore\MVCBookStore\bin\EntityFramework.SqlServer.dll
+C:\Users\Tuyet Trinh\Desktop\CNPMNC\MVCBookStore\MVCBookStore\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Tuyet Trinh\Desktop\CNPMNC\MVCBookStore\MVCBookStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Tuyet Trinh\Desktop\CNPMNC\MVCBookStore\MVCBookStore\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Tuyet Trinh\Desktop\CNPMNC\MVCBookStore\MVCBookStore\bin\Microsoft.Owin.dll
+C:\Users\Tuyet Trinh\Desktop\CNPMNC\MVCBookStore\MVCBookStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Tuyet Trinh\Desktop\CNPMNC\MVCBookStore\MVCBookStore\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Tuyet Trinh\Desktop\CNPMNC\MVCBookStore\MVCBookStore\bin\Microsoft.Owin.Security.dll
+C:\Users\Tuyet Trinh\Desktop\CNPMNC\MVCBookStore\MVCBookStore\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Tuyet Trinh\Desktop\CNPMNC\MVCBookStore\MVCBookStore\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Tuyet Trinh\Desktop\CNPMNC\MVCBookStore\MVCBookStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Tuyet Trinh\Desktop\CNPMNC\MVCBookStore\MVCBookStore\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Tuyet Trinh\Desktop\CNPMNC\MVCBookStore\MVCBookStore\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Tuyet Trinh\Desktop\CNPMNC\MVCBookStore\MVCBookStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Tuyet Trinh\Desktop\CNPMNC\MVCBookStore\MVCBookStore\bin\Newtonsoft.Json.dll
+C:\Users\Tuyet Trinh\Desktop\CNPMNC\MVCBookStore\MVCBookStore\bin\Owin.dll
+C:\Users\Tuyet Trinh\Desktop\CNPMNC\MVCBookStore\MVCBookStore\bin\PagedList.dll
+C:\Users\Tuyet Trinh\Desktop\CNPMNC\MVCBookStore\MVCBookStore\bin\PagedList.Mvc.dll
+C:\Users\Tuyet Trinh\Desktop\CNPMNC\MVCBookStore\MVCBookStore\bin\System.Web.Helpers.dll
+C:\Users\Tuyet Trinh\Desktop\CNPMNC\MVCBookStore\MVCBookStore\bin\System.Web.Mvc.dll
+C:\Users\Tuyet Trinh\Desktop\CNPMNC\MVCBookStore\MVCBookStore\bin\System.Web.Optimization.dll
+C:\Users\Tuyet Trinh\Desktop\CNPMNC\MVCBookStore\MVCBookStore\bin\System.Web.Razor.dll
+C:\Users\Tuyet Trinh\Desktop\CNPMNC\MVCBookStore\MVCBookStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Tuyet Trinh\Desktop\CNPMNC\MVCBookStore\MVCBookStore\bin\System.Web.WebPages.dll
+C:\Users\Tuyet Trinh\Desktop\CNPMNC\MVCBookStore\MVCBookStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\Tuyet Trinh\Desktop\CNPMNC\MVCBookStore\MVCBookStore\bin\WebGrease.dll
+C:\Users\Tuyet Trinh\Desktop\CNPMNC\MVCBookStore\MVCBookStore\bin\PagedList.xml
+C:\Users\Tuyet Trinh\Desktop\CNPMNC\MVCBookStore\MVCBookStore\bin\PagedList.Mvc.xml
+C:\Users\Tuyet Trinh\Desktop\CNPMNC\MVCBookStore\MVCBookStore\bin\System.Web.Helpers.xml
+C:\Users\Tuyet Trinh\Desktop\CNPMNC\MVCBookStore\MVCBookStore\bin\System.Web.Mvc.xml
+C:\Users\Tuyet Trinh\Desktop\CNPMNC\MVCBookStore\MVCBookStore\bin\System.Web.Optimization.xml
+C:\Users\Tuyet Trinh\Desktop\CNPMNC\MVCBookStore\MVCBookStore\bin\System.Web.Razor.xml
+C:\Users\Tuyet Trinh\Desktop\CNPMNC\MVCBookStore\MVCBookStore\bin\System.Web.WebPages.xml
+C:\Users\Tuyet Trinh\Desktop\CNPMNC\MVCBookStore\MVCBookStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Tuyet Trinh\Desktop\CNPMNC\MVCBookStore\MVCBookStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\Tuyet Trinh\Desktop\CNPMNC\MVCBookStore\MVCBookStore\bin\Antlr3.Runtime.pdb
+C:\Users\Tuyet Trinh\Desktop\CNPMNC\MVCBookStore\MVCBookStore\bin\Newtonsoft.Json.xml
+C:\Users\Tuyet Trinh\Desktop\CNPMNC\MVCBookStore\MVCBookStore\bin\EntityFramework.xml
+C:\Users\Tuyet Trinh\Desktop\CNPMNC\MVCBookStore\MVCBookStore\bin\EntityFramework.SqlServer.xml
+C:\Users\Tuyet Trinh\Desktop\CNPMNC\MVCBookStore\MVCBookStore\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Tuyet Trinh\Desktop\CNPMNC\MVCBookStore\MVCBookStore\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Tuyet Trinh\Desktop\CNPMNC\MVCBookStore\MVCBookStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Tuyet Trinh\Desktop\CNPMNC\MVCBookStore\MVCBookStore\bin\Microsoft.Owin.xml
+C:\Users\Tuyet Trinh\Desktop\CNPMNC\MVCBookStore\MVCBookStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Tuyet Trinh\Desktop\CNPMNC\MVCBookStore\MVCBookStore\bin\Microsoft.Owin.Security.xml
+C:\Users\Tuyet Trinh\Desktop\CNPMNC\MVCBookStore\MVCBookStore\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Tuyet Trinh\Desktop\CNPMNC\MVCBookStore\MVCBookStore\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Tuyet Trinh\Desktop\CNPMNC\MVCBookStore\MVCBookStore\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Tuyet Trinh\Desktop\CNPMNC\MVCBookStore\MVCBookStore\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Tuyet Trinh\Desktop\CNPMNC\MVCBookStore\MVCBookStore\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Tuyet Trinh\Desktop\CNPMNC\MVCBookStore\MVCBookStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Tuyet Trinh\Desktop\CNPMNC\MVCBookStore\MVCBookStore\obj\Debug\MVCBookStore.csprojResolveAssemblyReference.cache
+C:\Users\Tuyet Trinh\Desktop\CNPMNC\MVCBookStore\MVCBookStore\obj\Debug\MVCBookStore.dll
+C:\Users\Tuyet Trinh\Desktop\CNPMNC\MVCBookStore\MVCBookStore\obj\Debug\MVCBookStore.pdb
